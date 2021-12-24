@@ -18,3 +18,29 @@
 
 #### Ethereum 주제 선정 이유
 최근 유행했던 NFT코인의 거래가 대부분 이더리움을 통해 이루어지며 이더리움의 활용방안이 점점 증가하고 있다. 그리고 이더리움의 높은 활용성으로 다양한 이더리움 기반의 토큰과 코인이 개발되었다. 골렘, 어거, 샌드박스 등의 코인은 지금도 코인거래소에서 꾸준히 거래되고 있다. 이더리움과 같은 블록체인 기술이 세상을 어떻게 편리하게 바꿀 수 있을지 흥미가 생겨서 이더리움 번역을 주제로 잡게 되었다.
+
+#### 번역 시 주의사항
+Please do not translate the markup codes:
+[TIP], [WARNING], [NOTE]
+
+Do not translate the heading markers or index references:
+[[ch1_introduction]], [[example6_2]]
+these are anchors for references elsewhere in the document:
+<<ch1_introduction>>
+which become links and text references.
+
+In the index reference data:
+((("ethereum client", id="ix_ch03-asciidoc0", range="startofrange")))
+only translate the index words themselves: "ethereum client", do not translate the index reference data:
+id="ix_ch03-asciidoc0", range="startofrange"
+
+Do not translate command line commands and source code
+
+Do not translate image file names and code example filenames
+
+Do not translate bitcoin-cli command names or other commands
+
+Avoid translating anything inside brackets or between formatting markers:
+[,],[[,]],((,)),<<,>>,{,},+,+
+
+번역 책임자의 요구사항이다. 소스코드, 참조, 인덱스 등의 문장은 되도록 번역하지 않도록 해야 한다. 명령어 또한 마찬가지이다.
