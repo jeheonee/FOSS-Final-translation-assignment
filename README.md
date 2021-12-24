@@ -1,7 +1,7 @@
-#FOSS 기말 최종 과제
+# FOSS 기말 최종 과제
 
-##201720680 정제헌
+## 201720680 정제헌
 
-##transifex Mastering Ethereum Translation Project
+## transifex Mastering Ethereum Translation Project
 -----------
-###Mastering Ethereum URL : https://www.transifex.com/aantonop/ethereumbook
+### Mastering Ethereum URL : https://www.transifex.com/aantonop/ethereumbook
