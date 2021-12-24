@@ -2,7 +2,7 @@
 
 ### 201720680 정제헌
 ### transifex Mastering Ethereum Translation Project
-
+<hr/>
 ##### Mastering Ethereum URL : https://www.transifex.com/aantonop/ethereumbook
 
 #### Ethereum?
