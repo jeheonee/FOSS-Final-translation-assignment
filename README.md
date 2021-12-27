@@ -56,6 +56,7 @@ Avoid translating anything inside brackets or between formatting markers:
 ### 번역 결과
 189개의 문장을 번역하였고 5115개의 단어를 번역하였다.
 ![번역 결과](https://user-images.githubusercontent.com/84717789/147364183-fd357ace-d609-499a-b371-545b6dc538d7.png)
+![단어 개수](https://user-images.githubusercontent.com/84717789/147479052-4e98d878-66b3-482f-ad8c-4ed1a0ac0063.png)
 
 ### 느낀 점
 번역하기로 결정한 3번째 clients 파트는 총 300개의 문장이 있었다. 하지만 위에서 언급한 번역 시 주의사항을 준수하기 위해 대략 100개 정도의 문장은 번역하지 않았다. 번역할 문장이 한 줄 정도로 끝날 줄 알았는데 문장의 길이가 길고 여러 개의 문장이 존재하여 번역하는 데 더 많은 시간이 들었다.
